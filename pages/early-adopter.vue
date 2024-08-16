@@ -5,7 +5,7 @@
       </header>
   
       <section class="text-lg mb-4 px-6">
-        Bergabung bersama early adopter yang lain
+        Bergabung bersama early adopter yang lain untuk menghadapi revolusi industri.
       </section>
   
       <div class="text-2xl font-bold text-red-600 mb-8">
